@@ -1,0 +1,1 @@
+SAP HANA is in memory data base
